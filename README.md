@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> I'm Tram Nguyen :smiley_cat: </h2>
-![200w](https://user-images.githubusercontent.com/56002685/222557888-c5640092-b7cd-4b2e-a6c6-a4587f364b20.gif)
+![200w](https://github.com/TramNguyen2712/TramNguyen2712/blob/main/200w.gif)
 
 <h3>About Me:</h3>
 <ul> 
