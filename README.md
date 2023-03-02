@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> I'm Tram Nguyen :smiley_cat: </h2>
+![200w](https://user-images.githubusercontent.com/56002685/222557888-c5640092-b7cd-4b2e-a6c6-a4587f364b20.gif)
+
+<h3>About Me:</h3>
+<ul> 
+  <li>🔭 I’m currently a master student at Minnesota State University, Mankato. </li>
+  <li>🌱 I’m currently learning JS and React.</li>
+  <li> 💬 Ask me about international student life or website developer</li>
+  <li> 😄 Pronouns: she/her.</li>
+  <li> ⚡ Fun fact: I love to learn and create somethings cool.</li>
+</ul>
+
+
+<h3>Languages I use:</h3>
+
+<h3>Get In Touch:</h3>
+<p>Making connection to my <a>LinkedIn</a></p>
+
+
+
+
