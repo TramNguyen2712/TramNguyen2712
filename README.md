@@ -3,14 +3,16 @@
 
 
 <h2> I'm Tram Nguyen :smiley_cat: </h2>
-<h2> Front-End Developer 👩‍💻 </h2>
+<h3> Front-End Developer 👩‍💻 </h3>
+<br>
 <img src="https://github.com/TramNguyen2712/TramNguyen2712/blob/main/200w.gif" width="300">
 
 <h3>🙋‍♀️ About Me:</h3>
 <ul> 
   <li>🔭 I’m currently a master student at Minnesota State University, Mankato. </li>
   <li>🌱 I’m currently learning JS and React.</li>
-  <li> 💬 Ask me about international student life or website developer</li>
+  <li> 🔍 I'm looking for the intership to gain the real world experience</li>
+  <li> 💬 Ask me about the international student life </li>
   <li> 😄 Pronouns: she/her.</li>
   <li> ⚡ Fun fact: I love to learn and create somethings cool.</li>
 </ul>
