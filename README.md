@@ -3,7 +3,7 @@
 
 
 <h2> I'm Tram Nguyen :smiley_cat: </h2>
-<h3> Front-End Developer 👩‍💻 </h3>
+<h3> Data Analyst 👩‍💻 </h3>
 <br>
 <img src="https://github.com/TramNguyen2712/TramNguyen2712/blob/main/200w.gif" width="300">
 
