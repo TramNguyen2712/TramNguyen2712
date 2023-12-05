@@ -10,7 +10,7 @@
 <h3>🙋‍♀️ About Me:</h3>
 <ul> 
   <li>🔭 I’m currently a master student at Minnesota State University, Mankato. </li>
-  <li>🌱 I’m currently learning JS and React.</li>
+  <li>🌱 I’m good at Python, SQL, PowerBI.</li>
   <li> 🔍 I'm looking for the intership to gain the real world experience</li>
   <li> 💬 Ask me about the international student life </li>
   <li> 😄 Pronouns: she/her.</li>
